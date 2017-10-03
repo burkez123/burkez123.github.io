@@ -9,7 +9,7 @@ div.container {
 header, footer {
     padding: 1em;
     color: white;
-    background-color: blue;
+    background-color: Blue;
     clear: left;
     text-align: center;
 }
@@ -39,11 +39,10 @@ article {
 </head>
 <body>
 
-
 <div class="container">
 
 <header>
-   <h1>Favorite Book</h1>
+   <h1>Favorite Sports Team</h1>
 </header>
   
 <nav>
@@ -55,5 +54,21 @@ article {
     <li><a href="https://burkez123.github.io/Movies.html">Movies</a></li>
   </ul>
 </nav>
+    <article>
+<h1>Dallas Cowboys</h1>
+<p1>The Dallas Cowboys are my favorite sports team out of all of the sports played, and that is for many reasons. First of all, they are from Texas, my home state and favorite state, that will automatically bring the to the top because they are pretty much my hometeam. Another reason why I like them so much is because they are nicknamed "America's Team," which is because they are on the news so much, they have come to represent the nation when it comes to sports. I also like their coach, who respects America and forces his players to stand and respect the national anthem, that makes the team as a whole respectable and another reason why they are a favoriteof mine. And lastly, they are my favorite team because they are good at playing football, I could have picked another team based in Texas to be my favorite, but this team has won 5 Super Bowls, which is quite a lot considering that there have been 51 in total.
 
-<article>
+<h2>Famous Players</h2>
+<h3>Troy Aikman</h3>
+<img src=https://cdn-s3.si.com/images/1999-1003-Troy-Aikman-00106460.jpg alt="Troy Aikman" style="width:400px;Length:670px">
+
+<h3>Roger Staubach</h3>
+<img src=http://img.mensjournal.com/920-width/mj-618_348_roger-staubach-athletes-who-served.jpg alt="Roger Staubach" style="width:500px;length:270px">
+
+    <h3>History of the Dallas Cowboys</h3>
+<p1> The Dallas Cowboys, founded in the year 1960 by Clint Murchinson Jr., was the first football team south of Washington D.C. since 1952 when the Dallas Texans dissolved, and the Washington Redskins owner held a monopoly on the entire South. After tense negotiations, some backstabbing between the Washington Redskins owner and Murchinson, he was allowed to start a football team in Texas, and thus a rivalry between the Cowboys and Redskins was born. The Dallas Cowboys played in their homefield The Cotton Bowl Stadium for their first 11 years as a team. In that time, they made 4 Conference Championships, 5 Division championships, 6 playoff apeearances and won the Superbowl once (in 1971). In 1971, they left the Cotton Bowl Stadium for the smaller yet more robust Texas Stadium and stayed there until 2008, through the 70s, the Cowboys set a new record for winning a total of 105 regular season games. In the time they were at the Texas Stadium, they won 4 Superbowls, made 23 playoff appearances, won 14 Division championships, and 6 Conference championships. As of today, they play at the AT&T Stadium.
+<p>
+Link to the Dallas Cowboys' website
+<li><a href="http://www.dallascowboys.com/">Dallas Cowboys</a></li>
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d4QToDNvOaE" frameborder="0" allowfullscreen></iframe>
